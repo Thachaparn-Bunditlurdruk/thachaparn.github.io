@@ -1,0 +1,173 @@
+{
+    "type": "bubble",
+    "size": "kilo",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://thachaparn.github.io/message%20types/imagecarousal.png",
+          "gravity": "top",
+          "size": "full",
+          "aspectRatio": "2:3",
+          "aspectMode": "cover"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Image carousal",
+                      "color": "#ffffff",
+                      "size": "md",
+                      "weight": "bold",
+                      "wrap": true
+                    }
+                  ],
+                  "position": "relative"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "SAMPLE",
+                      "color": "#ffffff",
+                      "size": "xxs",
+                      "align": "center",
+                      "offsetTop": "3px"
+                    }
+                  ],
+                  "width": "70px",
+                  "height": "20px",
+                  "backgroundColor": "#ff334b",
+                  "cornerRadius": "20px"
+                }
+              ],
+              "position": "relative",
+              "spacing": "xs"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "DEMO",
+                          "color": "#03303Acc",
+                          "flex": 0,
+                          "weight": "bold"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "md"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "position": "relative",
+                  "height": "40px",
+                  "backgroundColor": "#ffffff",
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "action": {
+                    "type": "message",
+                    "label": "action",
+                    "text": "image carousal demo"
+                  }
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "icon",
+                          "url": "https://thachaparn.github.io/message%20types/book.png",
+                          "offsetTop": "1px",
+                          "offsetStart": "-2px"
+                        },
+                        {
+                          "type": "text",
+                          "text": "read docs",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "weight": "bold",
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "md"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "position": "relative",
+                  "height": "40px",
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "borderColor": "#ffffff",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://developers.line.biz/en/reference/messaging-api/#image-carousel"
+                  }
+                }
+              ],
+              "spacing": "sm",
+              "margin": "md"
+            }
+          ],
+          "position": "absolute",
+          "height": "170px",
+          "backgroundColor": "#03303Acc",
+          "offsetBottom": "0px",
+          "offsetStart": "0px",
+          "offsetEnd": "0px",
+          "paddingAll": "20px",
+          "paddingTop": "18px"
+        }
+      ],
+      "paddingAll": "0px"
+    }
+  }

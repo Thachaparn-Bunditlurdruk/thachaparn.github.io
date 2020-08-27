@@ -1,0 +1,1440 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/text'.png",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Text",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "text demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#text-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/sticker.png",
+              "size": "full",
+              "aspectMode": "fit",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Sticker",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "sticker demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#sticker-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/img.png",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Image",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "image demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#image-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/vdo.png",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Video",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "video demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#video-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/audio.png",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Audio",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "audio demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#audio-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/location.png",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Location",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "location demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#location-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thachaparn.github.io/message%20types/imagemap.png",
+              "size": "full",
+              "aspectMode": "fit",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "backgroundColor": "#dadde4"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "Imagemap",
+                          "size": "xl",
+                          "color": "#ffffff",
+                          "weight": "bold"
+                        }
+                      ],
+                      "position": "relative"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "SAMPLE",
+                          "color": "#ffffff",
+                          "align": "center",
+                          "size": "xxs",
+                          "offsetTop": "3px"
+                        }
+                      ],
+                      "position": "relative",
+                      "cornerRadius": "20px",
+                      "backgroundColor": "#ff334b",
+                      "height": "25px",
+                      "width": "80px",
+                      "paddingAll": "2px"
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "xs"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "DEMO",
+                              "color": "#03303Acc",
+                              "flex": 0,
+                              "weight": "bold"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "md"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "message",
+                        "label": "action",
+                        "text": "imagemap demo"
+                      },
+                      "backgroundColor": "#ffffff"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "icon",
+                              "url": "https://thachaparn.github.io/message%20types/book.png",
+                              "offsetTop": "1px",
+                              "offsetStart": "-2px"
+                            },
+                            {
+                              "type": "text",
+                              "text": "read docs",
+                              "color": "#ffffff",
+                              "flex": 0,
+                              "offsetTop": "-2px"
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderWidth": "1px",
+                      "cornerRadius": "4px",
+                      "borderColor": "#ffffff",
+                      "height": "40px",
+                      "position": "relative",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://developers.line.biz/en/reference/messaging-api/#imagemap-message"
+                      }
+                    }
+                  ],
+                  "position": "relative",
+                  "spacing": "sm",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "offsetBottom": "0px",
+              "height": "150px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Template",
+                      "size": "xl",
+                      "color": "#ffffff",
+                      "weight": "bold",
+                      "align": "center"
+                    }
+                  ],
+                  "margin": "xxl"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Buttons",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "borderColor": "#ffffff",
+                  "height": "40px",
+                  "position": "relative",
+                  "action": {
+                    "type": "postback",
+                    "label": "action",
+                    "data": "flex_buttons"
+                  },
+                  "margin": "xxl"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Confirm",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "xs",
+                  "borderColor": "#ffffff",
+                  "margin": "lg",
+                  "height": "40px",
+                  "position": "relative",
+                  "action": {
+                    "type": "postback",
+                    "label": "action",
+                    "data": "flex_confirm"
+                  }
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Carousal",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "xs",
+                  "borderColor": "#ffffff",
+                  "margin": "lg",
+                  "height": "40px",
+                  "position": "relative",
+                  "action": {
+                    "type": "postback",
+                    "label": "action",
+                    "data": "flex_carousal"
+                  }
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Image carousal",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "xs",
+                  "borderColor": "#ffffff",
+                  "margin": "lg",
+                  "height": "40px",
+                  "position": "relative",
+                  "action": {
+                    "type": "postback",
+                    "label": "action",
+                    "data": "flex_imgcarousal"
+                  }
+                }
+              ],
+              "position": "relative",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "height": "450px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
