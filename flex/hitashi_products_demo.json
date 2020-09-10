@@ -1,0 +1,244 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "ตู้เย็น",
+                  "size": "xl",
+                  "align": "center",
+                  "gravity": "center",
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://www.homeappliances.hitachi.com/products/refrigerators/item/THR-H300PD_01.jpg",
+          "size": "full",
+          "aspectRatio": "1.51:1",
+          "aspectMode": "fit"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูรายละเอียด",
+                "text": "มี \"ตู้เย็น\" รุ่นไหนน่าสนใจบ้าง"
+              },
+              "color": "#DD0B2B",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "เครื่องปรับอากาศ",
+                  "size": "xl",
+                  "align": "center",
+                  "gravity": "center",
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://www.homeappliances.hitachi.com/products/air-conditioners/item/RAS-DH10-13CLT_01.jpg",
+          "size": "full",
+          "aspectRatio": "1.51:1",
+          "aspectMode": "fit"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูรายละเอียด",
+                "text": "มี \"เครื่องปรับอากาศ\" รุ่นไหนน่าสนใจบ้าง"
+              },
+              "color": "#DD0B2B",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "เครื่องซักผ้า",
+                  "size": "xl",
+                  "align": "center",
+                  "gravity": "center",
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://www.homeappliances.hitachi.com/products/washing-machine/item/THBD-W90AV_01.jpg",
+          "size": "full",
+          "aspectRatio": "1.51:1",
+          "aspectMode": "fit"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูรายละเอียด",
+                "text": "มี \"เครื่องซักผ้า\" รุ่นไหนน่าสนใจบ้าง"
+              },
+              "color": "#DD0B2B",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "ไมโครเวฟ",
+                  "size": "xl",
+                  "align": "center",
+                  "gravity": "center",
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://www.homeappliances.hitachi.com/products/microwave/item/ARHMR-D2311_01.jpg",
+          "size": "full",
+          "aspectRatio": "1.51:1",
+          "aspectMode": "fit"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูรายละเอียด",
+                "text": "มี \"ไมโครเวฟ\" รุ่นไหนน่าสนใจบ้าง"
+              },
+              "color": "#DD0B2B",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "สินค้าอื่น ๆ",
+                  "size": "xl",
+                  "align": "center",
+                  "gravity": "center",
+                  "weight": "bold"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://thachaparn.github.io/hitashiEtc.jpg",
+          "size": "full",
+          "aspectRatio": "1.51:1",
+          "aspectMode": "fit"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "ดูสินค้าอื่น ๆ",
+                "text": "มีผลิตภัณฑ์อื่น ๆ อีกไหม"
+              },
+              "color": "#DD0B2B",
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
