@@ -1,0 +1,141 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://thachaparn.github.io//crm/red_text.jpg",
+        "size": "full",
+        "aspectRatio": "20:20",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "T-Shirt (Coral red)",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "฿290",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 20,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "฿590",
+                "weight": "regular",
+                "size": "md",
+                "color": "#DF1B15FF",
+                "flex": 60,
+                "gravity": "center",
+                "decoration": "line-through",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Add to Cart",
+              "uri": "https://shop.line.me/@996enouq/product/319559838"
+            },
+            "color": "#273248FF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://thachaparn.github.io//crm/green_text.jpg",
+        "size": "full",
+        "aspectRatio": "20:20",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "T-Shirt (Fresh avocado)",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "฿290",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 20,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "฿590",
+                "weight": "regular",
+                "size": "md",
+                "color": "#DF1B15FF",
+                "flex": 60,
+                "gravity": "center",
+                "decoration": "line-through",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Add to Cart",
+              "uri": "https://shop.line.me/@996enouq/product/319559843"
+            },
+            "color": "#273248FF",
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  ]
+}
